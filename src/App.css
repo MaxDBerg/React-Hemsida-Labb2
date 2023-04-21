@@ -1,0 +1,47 @@
+.mainApp {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #dfd3d3;
+}
+#Easteregg {
+  background-image: url("./assets/HackermanEasterEgg.bmp");
+}
+
+.homeArticles {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  width: 75%;
+  max-width: 750px;
+  min-width: 400px;
+  background-color: #fbf0f0;
+  padding: 20px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  color: #b46060;
+}
+.homeArticles a,
+.homeArticles button {
+  font-size: medium;
+  display: block;
+  background-color: #b46060;
+  padding: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  text-align: center;
+  color: #fff;
+  border-radius: 3px;
+  margin-top: 20px;
+  border: none;
+}
+hr {
+  border: 3px solid #dba39a;
+  border-radius: 4px;
+}
+
+a {
+  text-decoration: none;
+}

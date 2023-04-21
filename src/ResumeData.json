@@ -1,0 +1,54 @@
+{
+  "name": "Max Dahlberg",
+  "resume": {
+    "personal_information": {
+      "name": "Max Dahlberg",
+      "birthdate": "2001-11-07"
+    },
+    "skills": {
+      "computer_skills": [
+        "Mycket bra datorfärdigheter",
+        "Snabb anpassningsförmåga till nya system",
+        "Behärskar 5 programmeringsspråk"
+      ],
+      "programming_languages": [
+        "Language 1",
+        "Language 2",
+        "Language 3",
+        "Language 4",
+        "Language 5"
+      ],
+      "language": "Flytande engelska på hög nivå"
+    },
+    "previous_employments": [
+      {
+        "company_name": "Wist Last och Buss syd AB",
+        "job_title": "Lagerhanterare",
+        "duration": "3 månader"
+      },
+      {
+        "company_name": "Firn AB",
+        "job_title": "Utvecklare",
+        "duration": "1 år 9 månader"
+      }
+    ],
+    "education": [
+      {
+        "school_name": "Edströmska",
+        "field_of_study": "Lastbilsmekaniker",
+        "duration": "3 år"
+      },
+      {
+        "school_name": "Campus Varberg",
+        "field_of_study": ".NET Utvecklare",
+        "duration": "6 månader pågående"
+      }
+    ],
+    "other_skills": {
+      "experience": "Erfarenhet av utveckling inom .NET-ramverket",
+      "understanding": "God förståelse för databasdesign och SQL",
+      "teamwork": "Förmåga att arbeta i team och samarbeta med andra avdelningar"
+    },
+    "references": "Tillhandahålls vid begäran."
+  }
+}

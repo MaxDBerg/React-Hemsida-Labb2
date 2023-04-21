@@ -1,0 +1,36 @@
+.headerName {
+  margin-left: 30px;
+  color: #b46060;
+}
+/* The navigation menu */
+.navbar {
+  min-width: 470px;
+  overflow: hidden;
+  background-color: #4d4d4d;
+  margin: 0;
+  padding: 0%;
+  border: 0;
+}
+
+/* Navigation links */
+.navbar a {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a.active {
+  background-color: #b46060;
+}
+
+/* Add a red background color to navigation links on hover */
+.navbar a:hover {
+  background-color: #414141;
+}
+
+.navbar a.active:hover {
+  background-color: #b46060;
+}

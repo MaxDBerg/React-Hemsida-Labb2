@@ -1,0 +1,31 @@
+/* Container for skill bars */
+.container {
+  box-sizing: border-box;
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 5px; /* Add top padding */
+  padding-bottom: 5px; /* Add bottom padding */
+  padding-right: 10px;
+  color: white; /* White text color */
+}
+
+.html {
+  width: 25%;
+  background-color: #dba39a;
+} /* Green */
+.css {
+  width: 20%;
+  background-color: #dba39a;
+} /* Blue */
+.js {
+  width: 35%;
+  background-color: #dba39a;
+} /* Red */
+.csharp {
+  width: 45%;
+  background-color: #dba39a;
+} /* Dark Grey */
