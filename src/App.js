@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="mainApp" id={isEasterEggActive ? "Easteregg" : ""}>
-      <BrowserRouter basename="/my-app">
+      <BrowserRouter basename="/React-Hemsida-Labb2">
         <Header onEasterEggClick={handleEasterEggClick} />
         <Routes>
           <Route exact path="/" element={<Home />}></Route>
