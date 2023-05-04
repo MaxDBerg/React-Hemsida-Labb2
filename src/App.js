@@ -9,7 +9,7 @@ import SecretCodeEgg from "./components/SecretCodeEasterEgg";
 import "./App.css";
 
 import React, { useState } from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   const [isEasterEggActive, setIsEasterEggActive] = useState(false);
@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="mainApp" id={isEasterEggActive ? "Easteregg" : ""}>
-      <BrowserRouter basename="/React-Hemsida-Labb2">
+      <HashRouter basename="/React-Hemsida-Labb2">
         <Header onEasterEggClick={handleEasterEggClick} />
         <Routes>
           <Route exact path="/" element={<Home />}></Route>
@@ -31,7 +31,7 @@ function App() {
         </Routes>
         <Footer />
         <SecretCodeEgg />
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
