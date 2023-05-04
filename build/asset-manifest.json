@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Hemsida-Labb2/static/css/main.320a4bdd.css",
+    "main.js": "/React-Hemsida-Labb2/static/js/main.ad98e0b8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-Hemsida-Labb2/static/js/787.28cb0dcd.chunk.js",
+    "static/media/HackermanEasterEgg.bmp": "/React-Hemsida-Labb2/static/media/HackermanEasterEgg.779d50eec7f3de4f29d8.bmp",
+    "index.html": "/React-Hemsida-Labb2/index.html",
+    "main.320a4bdd.css.map": "/React-Hemsida-Labb2/static/css/main.320a4bdd.css.map",
+    "main.ad98e0b8.js.map": "/React-Hemsida-Labb2/static/js/main.ad98e0b8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-Hemsida-Labb2/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.320a4bdd.css",
+    "static/js/main.ad98e0b8.js"
+  ]
+}
